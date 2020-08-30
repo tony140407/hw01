@@ -1,0 +1,118 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft JhengHei", Roboto, "Helvetica Neue", Arial, sans-serif;
+    line-height: 1.5;
+}
+
+.container{
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.mb-ss{
+    margin-bottom: 8px;
+}
+.mb-s{
+    margin-bottom: 16px;
+}
+.mb-m{
+    margin-bottom: 32px;
+}
+.mb-l{
+    margin-bottom: 48px;
+}
+.mb-xl{
+    margin-bottom: 72px;
+}
+
+.intro h1 {
+    font-size: 80px;
+    line-height: 95px;
+    border-bottom: 3px solid #000;
+}
+.intro li {
+    font-size: 24px;
+    line-height: 36px;
+}
+.intro-detail h2{
+    font-size: 32px;
+    line-height: 48px;
+    font-weight: 700;
+    border-bottom: 2px solid #000;
+
+    margin-bottom: 16px;
+}
+.intro-detail  span{
+    font-size: 24px;
+    line-height: 29px;
+    color:#A00404
+}
+.intro-detail P{
+    font-size: 24px;
+    line-height: 36px;
+    color: #000;
+    margin-bottom: 24px;
+}
+.intro-detail-white h2{
+    border-bottom: 2px solid #fff;
+}
+.intro-detail-white h2,.intro-detail-white span,.intro-detail-white p,.intro-detail-white li{
+    color: #FFFFFF;
+}
+.skill-bg{
+    background-color: #415165;
+    text-align: center;
+    padding-top: 24px;
+    padding-bottom: 52px;
+}
+.skill{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.skill ul{ 
+    margin-top: 52px;
+    margin-left: 380px;
+    padding-left: 24px;
+    border-left: 1px solid #fff;
+    text-align: left;
+}
+.skill li{
+    margin-bottom: 20px;
+}
+.work-experience ul{
+    width: 53%;
+    padding-left: 24px;
+    margin-left: 24px;
+    border-left: 1px solid #aaa;
+}
+.work-experience li{
+    font-weight: 700;
+    margin-bottom: 32px;
+}
+.work-experience p{
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: normal;
+}
+.footer{
+    background-color: #415165;
+    text-align: center;
+    padding: 48px 0 10px 0;
+}
+.footer li{
+    font-weight: 300;
+    margin-bottom: 16px;
+}
+.footer .contact{
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+
